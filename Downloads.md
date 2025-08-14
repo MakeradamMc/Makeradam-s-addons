@@ -9,7 +9,7 @@ Welcome to the download section! Here you can find and download the addons creat
 | Addon Name      | Version  | Description                | Download          |
 |-----------------|----------|----------------------------|-------------------|
 | The broken script BE   | 0.6.10_2      | Bedrock port of TBS             | [Download](https://www.mediafire.com/file/izu7cupqx1hrrf8/The+Broken+Script+BE+v0.6.10_2.mcaddon/file) |
-| ExampleAddon2   | 2.1      | Another addon              | [Download](link2) |
+| TBS moon texture pack   | 1.1      | A moon texture pack for survival MC              | [Download](https://www.curseforge.com/minecraft-bedrock/texture-packs/the-broken-script-moon-texture-pack) |
 
 
 ---
