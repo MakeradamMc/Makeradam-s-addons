@@ -12,7 +12,7 @@ See [Info](Info.md) for information about me and how did i get into addons makin
 
 ## Socials
 
-![null](youtube.png) [YouTube](https://www.youtube.com/@Adam-e2u7l)
+![null](images/youtube.png) [YouTube](https://www.youtube.com/@Adam-e2u7l)
 
-![null](discord.png) [Join the Discord](https://discord.gg/cbKdpBzYHZ)
+![null](images/discord.png) [Join the Discord](https://discord.gg/cbKdpBzYHZ)
 
