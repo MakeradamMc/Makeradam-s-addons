@@ -14,9 +14,9 @@ Welcome to the download section! Here you can find and download the addons creat
 
 ## How to install the addons
 
-1. Download the ZIP file of the addon you are interested in.
-2. Extract the contents into the folder indicated by the addon's instructions.
-3. Follow the specific instructions included in the README file of each addon.
+1. Download the Mcaddon file of the addon you are interested in.
+2. Import it in minecraft
+3. Activate it in your world
 
 ---
 
