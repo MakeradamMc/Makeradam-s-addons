@@ -1,2 +1,2 @@
 # Makeradam-s-addons
-Here you can find links to download my addons etc
+Here you can find links to download some my addons etc
