@@ -5,3 +5,7 @@ Here you can find links to download some my addons etc
 ## Downloads
 
 To access the list of available downloads, see the [Downloads](Downloads.md) page.
+
+## Info
+
+See [Info](Info.md) for information about me and how did i get into addons making:
