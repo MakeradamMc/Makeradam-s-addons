@@ -10,9 +10,9 @@ original creator: *Wendigodrip*
 go back to [Downloads](Downloads.md)
 -----------------------
 
-> Caution
-> This version only works in 1.21.100+
-> You need Beta-API experiment for it to work properly
+>> Caution
+>> This version only works in 1.21.100+
+>> You need Beta-API experiment for it to work properly
 
 Latest version: 0.7-beta
 [Download link](https://www.mediafire.com/file/iv08vx33hao830v/The+Broken+Script+BE+v0.7-beta.mcaddon/file)
