@@ -6,15 +6,15 @@ Welcome to the download section! Here you can find and download the addons creat
 
 ## Addons
 
-#[TBSBE](tbsbe.md)
+#[TBSBE](Tbsbe.md)
 
 Bedrock port of the java mod "The broken script" by *Wendigodrip*
 
-#000.jar BE
+#[000.jar BE](ooo.md)
 
 Bedrock port of the java mod "000.jar" by *Ebalia*
 
-#The Bottom Of The Void
+#[The Bottom Of The Void](TBOTV.md)
 
 Addon purely based one the mark101 ARG
 
