@@ -1,4 +1,4 @@
-# Download Page – Makeradam' s addons
+### Downloads
 --------------------------------
 return to main page: [Main page](README.md)
 --------------------------------
