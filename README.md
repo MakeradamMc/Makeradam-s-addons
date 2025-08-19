@@ -1,7 +1,7 @@
 ![null](images/Screenshot_20250626-162345.png)
 
 ![null](images/makeradamsaddons.png)
-Here you can find links to download some my addons etc
+Here you can find links to download my addons etc
 
 ## Downloads
 
