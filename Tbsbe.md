@@ -1,5 +1,11 @@
 ![null](images/pack_icon.png)
 ## The broken script BE
+
+Bedrock port of the java mod "The broken script"
+
+# Credits
+
+original creator: *Wendigodrip*
 -----------------------
 go back to [Downloads](Downloads.md)
 -----------------------
