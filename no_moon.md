@@ -6,6 +6,6 @@ Official port of the java mod "No_moon.jar"
 -------
 Go back to [Downloads](Downloads.md)
 -------
-# Credits
+## Credits
 
 Original creator *Wentworth*
