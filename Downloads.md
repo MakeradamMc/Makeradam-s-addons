@@ -18,9 +18,15 @@ Bedrock port of the java mod "000.jar" by *Ebalia*
 
 Addon purely based one the mark101 ARG
 
+### [Into The Depths](Itd.md)
+
+My first horror addon, adds unique dwellers to your caves
+
 ### [no_moon.jar BE](no_moon.md)
 
 Bedrock port of the java mod "no_moon.jar" by *Wentworth*
+
+----------
 ## How to install the addons
 
 1. Download the Mcaddon file of the addon you are interested in.
